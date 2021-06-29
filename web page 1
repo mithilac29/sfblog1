@@ -1,0 +1,90 @@
+<html>
+  <head>
+    <title>sincerefoodie</title>
+  </head>
+  <body>
+      <div>
+        <!--Header-->
+          <div>
+            <!--logo-->
+            <img src="Images/muku_logo.jpg">
+            <h3>sincerefoodie</h3>
+            <!--Social media icon-->
+            <img src="Images/facebook.png">
+            <img src="Images/instagram.png">
+            <img src="Images/twitter-xxl.png">
+            <img src="Images/pinterest-icon-black-2.png">
+
+            <!--Search bar-->
+            <input type="text" placeholder="search recipes">
+            <div id= "button holder">
+              <img src="Images/magnifying glass.png">
+            </div>
+
+            <!--Navigation bar between lines-->
+            <hr>
+            <ul>
+              <li><a href="#">home </a></li>
+              <li><a href="#">about</a></li>
+              <li><a href="#">recipes</a></li>
+              <li><a href="#">reviews</a></li>
+              <li><a href="#">subscribe</a></li>
+            </ul>
+            <hr>
+
+
+          </div>
+
+       <!--Main content-->
+         <div>
+           <!--Home-->
+           <div class="container">
+            <img src="Images/crusty-gourmet-pizza-more-sodelhi-com.jpg" alt="Norway" style="width:50%;">
+            <div class="text-block">
+              <h4>There is little in the world that a thin crust pizza topped with perfectly melted cheese and deliciously charred veggies can not solve.</h4>
+
+            </div>
+          </div>
+           <img src="Images/cake 1.jpg">
+           <img src="Images/malai-kofta-recipe.jpg">
+        <hr>
+           <div></div>
+           <!--About-->
+           <h4>Hello, I’m Mukti.
+            I love to eat and cook. I believe that food and its preparation is as magical and beautiful as a piece of art. Here, I share my recipes and also my thoughts and reviews about everything related to food, from books to movies.</h4>
+
+           <img src="Images/young-woman-cooking-healthy-meal-260nw-1899438457.jpg">
+        <hr>
+
+           <!--Subscription-->
+
+           <img src="Images/indian-food-curry-butter-chicken-palak-paneer-chiken-tikka-biryani-papad-dal-rice-saffron-naan-bread-indian-food-curry-138536895.jpg"
+              <p><h2>Subscribe here</h2></p>
+              <p><h4>to add flavour to your inbox!!</h4></p>
+              <input type="text" placeholder="Your email address">
+              <p><input type="text" placeholder="Your first name"></p>
+           </div>
+            <hr>
+       <!--Footer-->
+       <div class="text-block">
+        <ul>
+          <li><a href="#">home </a></li>
+          <li><a href="#">about</a></li>
+          <li><a href="#">recipes</a></li>
+          <li><a href="#">reviews</a></li>
+          <li><a href="#">subscribe</a></li>
+        </ul>
+        <p>
+          <ul>
+            
+              <li><a href="#">Contact us </a></li>
+          
+          </ul>
+        </p>
+
+      </div>
+
+      </div>
+  
+  </body>
+</html>
